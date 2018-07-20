@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "result": "valid",
+  "flags": [
+    "smtp_connectable",
+    "has_dns",
+    "has_dns_mx"
+  ],
+  "suggested_correction": "",
+  "retry_token": "",
+  "credits_info": {
+    "paid_credits_used": 1,
+    "free_credits_used": 0,
+    "paid_credits_remaining": 9950778,
+    "free_credits_remaining": 0
+  },
+  "execution_time": 350
+}

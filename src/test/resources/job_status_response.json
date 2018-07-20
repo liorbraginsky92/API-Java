@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "id": 277461,
+  "filename": "Created from Array.csv",
+  "created_at": "2017-07-25 14:52:27",
+  "started_at": "2017-07-25 14:52:40",
+  "finished_at": "2017-07-25 14:53:06",
+  "total": {
+    "records": 2,
+    "billable": 2,
+    "processed": 2,
+    "valid": 0,
+    "invalid": 2,
+    "catchall": 0,
+    "disposable": 0,
+    "unknown": 0,
+    "duplicates": 0,
+    "bad_syntax": 0
+  },
+  "bounce_estimate": 0,
+  "percent_complete": 100,
+  "job_status": "complete",
+  "execution_time": 322
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "total_results": 3,
+  "total_pages": 1,
+  "query": {
+    "job_id": 251319,
+    "valids": 1,
+    "invalids": 1,
+    "disposables": 1,
+    "catchalls": 1,
+    "unknowns": 1,
+    "page": 0,
+    "items_per_page": 10
+  },
+  "results": [
+    {
+      "data": {
+        "email": "invalid@neverbounce.com",
+        "id": "12346",
+        "name": "Bob McInvalid",
+        "customerId": "1234"
+      },
+      "verification": {
+        "result": "invalid",
+        "flags": [
+          "smtp_connectable",
+          "has_dns",
+          "has_dns_mx"
+        ],
+        "suggested_correction": "",
+        "address_info": {
+          "original_email": "invalid@neverbounce.com",
+          "normalized_email": "invalid@neverbounce.com",
+          "addr": "invalid",
+          "alias": "",
+          "host": "neverbounce.com",
+          "fqdn": "neverbounce.com",
+          "domain": "neverbounce",
+          "subdomain": "",
+          "tld": "com"
+        }
+      }
+    }
+  ],
+  "execution_time": 55
+}
